@@ -42,10 +42,11 @@ img {
   padding: 1rem 2rem;
   border-radius: 3rem;
   font-weight: bold;
+  font-size: 1.6rem;
 }
 .emphasize {
   color: var(--accent);
-  font-weight: bold;
+  font-weight: bolder;
 }
 /*Header*/
 .logo {
@@ -63,6 +64,7 @@ img {
 h1 {
   font-size: 3rem;
   margin: 0 0 1rem;
+  line-height: 1.2;
 }
 .tagline {
   margin: 0 0 1rem;

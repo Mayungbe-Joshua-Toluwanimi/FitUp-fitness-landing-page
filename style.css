@@ -49,6 +49,9 @@ img {
   font-weight: bolder;
 }
 /*Header*/
+header {
+  background: linear-gradient(var(--primary), rgba(133, 255, 72, 0.126), var(--primary)); /*Change the colors if the :root is modified*/
+}
 .logo {
   /* border: 1px solid white; */
   color: var(--accent);
@@ -64,7 +67,7 @@ img {
 h1 {
   font-size: 3rem;
   margin: 0 0 1rem;
-  line-height: 1.2;
+  line-height: 1.4;
 }
 .tagline {
   margin: 0 0 1rem;
